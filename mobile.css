@@ -5,10 +5,12 @@
 	.timeline-box{
 		left: 12%;
 		width: 80%;
+		margin-bottom: 20px;
 	}
 	.timeline-box:nth-child(2n){
 		left: 12%;
 		width: 80%;
+		margin-bottom: 20px;
 	}.skills-display{
 		width:70%;
 		display: flex;
