@@ -1,4 +1,4 @@
-@media Screen and (max-width: 600px) {
+@media Screen and (max-width: 640px) {
 	.timeline-divider{
 		left: 5%;
 	}
